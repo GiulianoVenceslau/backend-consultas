@@ -11,4 +11,3 @@ public class BackendConsultasApplication {
 	}
 
 }
-git commit -m "chore: estrutura inicial gerada pelo Spring Initializr"

@@ -10,9 +10,6 @@ public class Especialidade {
     private String nome;
     private String descricao;
     public Especialidade() {}
-    git add .
-    git commit -m "feat: criação da entidade Especialidade"
-    git push
     public Especialidade(String nome, String descricao) {
         this.nome = nome;
         this.descricao = descricao;
